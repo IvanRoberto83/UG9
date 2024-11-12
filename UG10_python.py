@@ -49,4 +49,4 @@ def konser(Tiket, Lokasi, TotalWaktu: int):
         hargaTransport = 0
         hargaPenginapan = 0
 
-    return hargaTiket + hargaTransport + hargaPenginapan
+    # return hargaTiket + hargaTransport + hargaPenginapan
